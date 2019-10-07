@@ -1,0 +1,20 @@
+{
+  "extends": [
+    "tslint-config-airbnb",
+    "tslint:recommended",
+    "tslint-config-prettier"
+  ],
+  "linterOptions": {
+    "exclude": [
+      "node_modules",
+      "coverage/*"
+    ]
+  },
+  "rules": {
+    "no-console": false,
+    "no-debugger": false,
+    "interface-name" : [true, "never-prefix"],
+    "object-literal-sort-keys": false,
+    "explicit-function-return-type":false
+  }
+}
