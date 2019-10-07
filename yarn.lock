@@ -1813,6 +1813,18 @@ babel-jest@23.6.0, babel-jest@^23.6.0:
     babel-plugin-istanbul "^4.1.6"
     babel-preset-jest "^23.2.0"
 
+babel-js-to-jsx@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/babel-js-to-jsx/-/babel-js-to-jsx-2.0.3.tgz#82879e7fbe07ce1a6a9d4111f89848bb7aa0d71c"
+  dependencies:
+    babel-core "~6.2.2"
+    babel-plugin-syntax-jsx "^6.0.14"
+    babel-preset-es2015 "^6.2.2"
+    babel-register "^6.3.13"
+    esformatter "^0.8.1"
+    esformatter-jsx "^2.3.9"
+    react "^0.14.2"
+
 babel-loader@8.0.4:
   version "8.0.4"
   resolved "https://registry.yarnpkg.com/babel-loader/-/babel-loader-8.0.4.tgz#7bbf20cbe4560629e2e41534147692d3fecbdce6"
@@ -6243,8 +6255,8 @@ js-tokens@^3.0.2:
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-3.0.2.tgz#9866df395102130e38f7f996bceb65443209c25b"
 
 js-yaml@^3.12.0, js-yaml@^3.13.0, js-yaml@^3.7.0, js-yaml@^3.9.0:
-  version "3.13.0"
-  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.13.0.tgz#38ee7178ac0eea2c97ff6d96fff4b18c7d8cf98e"
+  version "3.13.1"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.13.1.tgz#aff151b30bfdfa8e49e05da22e7415e9dfa37847"
   dependencies:
     argparse "^1.0.7"
     esprima "^4.0.0"
