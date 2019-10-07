@@ -12,7 +12,7 @@
     "base-front-ts": "1.0.13",
     "classnames": "^2.2.6",
     "date-fns": "2.0.0-alpha.23",
-    "lodash.merge": "^4.6.1",
+    "lodash.merge": "^4.6.2",
     "prop-types": "^15.7.2",
     "react": "^16.6.0",
     "react-datepicker": "^2.0.0",
